@@ -7,11 +7,11 @@
 body {
     min-height: 100vh;
     font-family: Arial, sans-serif;
-    background: Gold;
+    background: #071a3d;
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #d4af37;
+    color: white;
 }
 
 .container {
@@ -45,7 +45,7 @@ h1 {
 }
 
 .profile p {
-    color: black;
+    color: #d4af37;
     margin-top: 7px;
 }
 
@@ -57,7 +57,7 @@ h1 {
 
 .links a {
     text-decoration: none;
-    color: black;
+    color: white;
     border: 1px solid #d4af37;
     padding: 15px;
     border-radius: 10px;
@@ -67,7 +67,7 @@ h1 {
 
 .links a:hover {
     background: #d4af37;
-    color: #d4af37;
+    color: #071a3d;
 }
 
 .qr-section {
